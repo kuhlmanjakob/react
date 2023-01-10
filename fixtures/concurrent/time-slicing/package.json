@@ -7,7 +7,7 @@
     "react": "0.0.0-experimental-269dd6ec5",
     "react-dom": "0.0.0-experimental-269dd6ec5",
     "react-markdown": "^3.2.0",
-    "react-scripts": "^1.1.4",
+    "react-scripts": "^2.1.3",
     "victory": "^0.25.6"
   },
   "scripts": {
