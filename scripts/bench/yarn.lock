@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@snyk/protect@^1.1187.0":
+  version "1.1187.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1187.0.tgz#b8b7311279d772453257454c57388049d131ba39"
+  integrity sha512-tnl+TJpsYda0LZ6z74FSYTfNSjFIe3k06yzb5dXCocaZVYrF9H+Zuk82uCb2q88AYUUTsVduDCIdEgoxGIOMCA==
+
 "@types/core-js@^0.9.41":
   version "0.9.46"
   resolved "https://registry.yarnpkg.com/@types/core-js/-/core-js-0.9.46.tgz#ea701ee34cbb6dfe6d100f1530319547c93c8d79"
