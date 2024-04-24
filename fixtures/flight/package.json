@@ -59,7 +59,7 @@
     "webpack": "^5.64.4",
     "webpack-dev-server": "^4.6.0",
     "webpack-manifest-plugin": "^4.0.2",
-    "workbox-webpack-plugin": "^6.4.1"
+    "workbox-webpack-plugin": "^7.1.0"
   },
   "scripts": {
     "prestart": "cp -r ../../build/node_modules/* ./node_modules/",
