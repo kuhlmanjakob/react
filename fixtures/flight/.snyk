@@ -1,0 +1,36 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - jest > @jest/core > @jest/reporters > @jest/transform > @babel/core > lodash:
+        patched: '2024-06-18T19:47:41.929Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          jest > @jest/core > @jest/reporters > @jest/transform > @babel/core >
+          lodash
+    - jest > @jest/core > @jest/reporters > @jest/transform > @babel/core > @babel/generator > lodash:
+        patched: '2024-06-18T19:47:41.929Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          jest > @jest/core > @jest/reporters > @jest/transform > @babel/core >
+          @babel/generator > lodash
+    - jest > @jest/core > @jest/reporters > @jest/transform > @babel/core > @babel/generator > @babel/types > lodash:
+        patched: '2024-06-18T19:47:41.929Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          jest > @jest/core > @jest/reporters > @jest/transform > @babel/core >
+          @babel/generator > @babel/types > lodash
+    - jest > @jest/core > @jest/reporters > @jest/transform > @babel/core > @babel/helpers > @babel/traverse > lodash:
+        patched: '2024-06-18T19:47:41.929Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          jest > @jest/core > @jest/reporters > @jest/transform > @babel/core >
+          @babel/helpers > @babel/traverse > lodash
+    - jest > @jest/core > jest-config > @jest/test-sequencer > jest-runtime > jest-snapshot > @babel/types > lodash:
+        patched: '2024-06-18T19:47:41.929Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          jest > @jest/core > jest-config > @jest/test-sequencer > jest-runtime
+          > jest-snapshot > @babel/types > lodash
