@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@snyk/protect@^1.1292.1":
+  version "1.1292.1"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1292.1.tgz#fe67905a5681828ac315b03e366427405e762157"
+  integrity sha512-wM/0JGs1PhN30nigmOSfEPge3pyEHBAEN3/5/EoyIPOsUsZl/pKBEb2TwZnYbnfTKQi7CpyOKkVIaw40CBbQVA==
+
 acorn-jsx@^3.0.0:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-3.0.1.tgz#afdf9488fb1ecefc8348f6fb22f464e32a58b36b"
