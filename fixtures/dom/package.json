@@ -11,11 +11,11 @@
     "classnames": "^2.2.5",
     "codemirror": "^5.40.0",
     "core-js": "^2.4.1",
-    "jest-diff": "^25.1.0",
+    "jest-diff": "^27.2.2",
     "prop-types": "^15.6.0",
     "query-string": "^4.2.3",
-    "react": "^15.4.1",
-    "react-dom": "^15.4.1",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "semver": "^5.5.0"
   },
   "scripts": {
